@@ -83,9 +83,9 @@
 
 |                             문제                             | 문제 유형 |                  풀이                  | 리마인드필요 |
 | :----------------------------------------------------------: | :-------: | :------------------------------------: |:-------:|
-| [BOJ 22871 징검다리건너기](https://www.acmicpc.net/problem/22871) | 이분탐색  | [풀이]() |  0 - dp 응용력 필요 |
-| [BOJ 1174 줄어드는수](https://www.acmicpc.net/problem/1174) | 백트래킹 | [풀이]() | 0 - 비트마스킹 이해도 필요 |
-| [BOJ 1074 Z](https://www.acmicpc.net/problem/1074)  | 분할정복 | [풀이]() | 0 - 재귀 이해도 부족  |
+| [BOJ 22871 징검다리건너기](https://www.acmicpc.net/problem/22871) | 이분탐색  | [풀이](https://github.com/Like-Kotlin/SSAFY_7th_KotlinStudy/blob/main/%EC%86%A1%ED%98%84%EC%A7%84/%EB%B0%B1%EC%A4%80_KOTLIN/22871_%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC%EA%B1%B4%EB%84%88%EA%B8%B0(large).kt) |  0 - dp 응용력 필요 |
+| [BOJ 1174 줄어드는수](https://www.acmicpc.net/problem/1174) | 백트래킹 | [풀이](https://github.com/Like-Kotlin/SSAFY_7th_KotlinStudy/blob/main/%EC%86%A1%ED%98%84%EC%A7%84/%EB%B0%B1%EC%A4%80_KOTLIN/1174_%EC%A4%84%EC%96%B4%EB%93%9C%EB%8A%94%EC%88%98.kt) | 0 - 비트마스킹 이해도 필요 |
+| [BOJ 1074 Z](https://www.acmicpc.net/problem/1074)  | 분할정복 | [풀이](https://github.com/Like-Kotlin/SSAFY_7th_KotlinStudy/blob/main/%EC%86%A1%ED%98%84%EC%A7%84/%EB%B0%B1%EC%A4%80_KOTLIN/1074_Z.kt) | 0 - 재귀 이해도 부족  |
 
 <br>
 </details>
@@ -100,9 +100,57 @@
 
 |                             문제                             | 문제 유형 |                  풀이                  | 리마인드필요 |
 | :----------------------------------------------------------: | :-------: | :------------------------------------: |:-------:|
-| [BOJ 11660 구간합구하기5](https://www.acmicpc.net/problem/11660) | 누적 합, 다이나믹 프로그래밍  | [풀이]() |  |
-| [BOJ 17609 회문](https://www.acmicpc.net/problem/17609) | 구현, 문자열, 투포인터 | [풀이]() |  |
-| [BOJ 11265 끝나지않는파티](https://www.acmicpc.net/problem/11265)  | 최단 거리 | [풀이]() |   |
+| [BOJ 11660 구간합구하기5](https://www.acmicpc.net/problem/11660) | 누적 합, 다이나믹 프로그래밍  | [풀이](https://github.com/Like-Kotlin/SSAFY_7th_KotlinStudy/blob/main/%EC%86%A1%ED%98%84%EC%A7%84/%EB%B0%B1%EC%A4%80_KOTLIN/11660_%EA%B5%AC%EA%B0%84%ED%95%A9%EA%B5%AC%ED%95%98%EA%B8%B05.kt) |  |
+| [BOJ 17609 회문](https://www.acmicpc.net/problem/17609) | 구현, 문자열, 투포인터 | [풀이](https://github.com/Like-Kotlin/SSAFY_7th_KotlinStudy/blob/main/%EC%86%A1%ED%98%84%EC%A7%84/%EB%B0%B1%EC%A4%80_KOTLIN/17609_%ED%9A%8C%EB%AC%B8.kt) | 0 - 리턴문 중요 |
+| [BOJ 11265 끝나지않는파티](https://www.acmicpc.net/problem/11265)  | 최단 거리 | [풀이](https://github.com/Like-Kotlin/SSAFY_7th_KotlinStudy/blob/main/%EC%86%A1%ED%98%84%EC%A7%84/%EB%B0%B1%EC%A4%80_KOTLIN/11265_%EB%81%9D%EB%82%98%EC%A7%80%EC%95%8A%EB%8A%94%ED%8C%8C%ED%8B%B0.kt) | 플로이드 와샬(공식)  |
+
+<br>
+</details>
+
+
+
+<details markdown="1">
+<summary><strong> 🎈 8주차 (2022-03-24 ~ 2022-03-31)</strong></summary>
+<br>
+<br>
+
+|                             문제                             | 문제 유형 |                  풀이                  | 리마인드필요 |
+| :----------------------------------------------------------: | :-------: | :------------------------------------: |:-------:|
+| [BOJ 14567 선수과목](https://www.acmicpc.net/problem/14567) | 위상정렬 | [풀이](https://github.com/Like-Kotlin/SSAFY_7th_KotlinStudy/blob/main/%EC%86%A1%ED%98%84%EC%A7%84/%EB%B0%B1%EC%A4%80_KOTLIN/14567_%EC%84%A0%EC%88%98%EA%B3%BC%EB%AA%A9.kt) | 2가지 방법 가능 |
+| [BOJ 1717 집합의표현](https://www.acmicpc.net/problem/1717) | 분리집합 | [풀이](https://github.com/Like-Kotlin/SSAFY_7th_KotlinStudy/blob/main/%EC%86%A1%ED%98%84%EC%A7%84/%EB%B0%B1%EC%A4%80_KOTLIN/1717_%EC%A7%91%ED%95%A9%EC%9D%98%ED%91%9C%ED%98%84.kt) | 기초 유니온 파인드|
+| [BOJ 1197 최소 스패닝 트리](https://www.acmicpc.net/problem/1197)  | 최소스패닝트리(mst) | [풀이](https://github.com/Like-Kotlin/SSAFY_7th_KotlinStudy/blob/main/%EC%86%A1%ED%98%84%EC%A7%84/%EB%B0%B1%EC%A4%80_KOTLIN/1197_%EC%B5%9C%EC%86%8C%EC%8A%A4%ED%8C%A8%EB%8B%9D%ED%8A%B8%EB%A6%AC.kt) | (MST) 프림,크루스칼 |
+
+<br>
+</details>
+
+
+
+<details markdown="1">
+<summary><strong> 🎈 9주차(2022-03-31 ~ 2022-04-06) </strong></summary>
+<br>
+<br>
+
+|                             문제                             | 문제 유형 |                  풀이                  | 리마인드필요 |
+| :----------------------------------------------------------: | :-------: | :------------------------------------: |:-------:|
+| [BOJ 4358 생태학](https://www.acmicpc.net/problem/4358) | 트라이 | [풀이]() |  |
+| [BOJ 15681 트리와 쿼리](https://www.acmicpc.net/problem/15681) | 트리, dp | [풀이]() | |
+| [BOJ 1935 후위표기식2](https://www.acmicpc.net/problem/1935)  | 자료구조, 스택 | [풀이]() |  |
+
+<br>
+</details>
+
+
+
+<details markdown="1">
+<summary><strong> 🎈 10주차(2022-04-06 ~ 2022-04-13) </strong></summary>
+<br>
+<br>
+
+|                             문제                             | 문제 유형 |                  풀이                  | 리마인드필요 |
+| :----------------------------------------------------------: | :-------: | :------------------------------------: |:-------:|
+| [BOJ 1068 트리](https://www.acmicpc.net/problem/1068) | 트리,그래프 | [풀이]() |  |
+| [BOJ 21275 폰호석만](https://www.acmicpc.net/problem/21275) | 수학, 브루트포스 | [풀이]() | |
+| [BOJ 1931 회의실 배정](https://www.acmicpc.net/problem/1931)  | 그리디, 정렬 | [풀이]() |  |
 
 <br>
 </details>
